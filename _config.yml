@@ -9,7 +9,7 @@ name: alexnahas
 description: ENGL/DH student.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: 10351401_10203974409466232_5721035143372783010_n.jpg
+avatar: https://scontent-iad3-1.xx.fbcdn.net/hphotos-xft1/v/t1.0-9/10351401_10203974409466232_5721035143372783010_n.jpg?oh=c1b267c34dc804d8df3d8ea05490b455&oe=56CD8909
 
 #
 # Flags below are optional
@@ -26,7 +26,7 @@ footer-links:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: # @LexicNahas_III
+  twitter:  @LexicNahas_III
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
