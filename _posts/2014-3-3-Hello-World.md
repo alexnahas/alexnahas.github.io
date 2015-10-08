@@ -9,4 +9,4 @@ http://static.comicvine.com/uploads/scale_medium/6/64770/1612435-hugostrangh.jpg
 
 See, I told you.  
 
-I'm Batman.
+I'm Batman. Seriously.
