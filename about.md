@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am the dark night.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am also a billionaire. 
 
 ### Contact me
 
